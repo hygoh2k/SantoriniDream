@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SantoriniDream", "SantoriniDream.csproj", "{BDD588D2-06E7-46C1-B4EE-0F630EB944E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SantoriniDream.Tests", "..\SantoriniDream.Tests\SantoriniDream.Tests.csproj", "{DA85E2CC-1E56-418F-945C-1A8E31AB6BBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDD588D2-06E7-46C1-B4EE-0F630EB944E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD588D2-06E7-46C1-B4EE-0F630EB944E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD588D2-06E7-46C1-B4EE-0F630EB944E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD588D2-06E7-46C1-B4EE-0F630EB944E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA85E2CC-1E56-418F-945C-1A8E31AB6BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA85E2CC-1E56-418F-945C-1A8E31AB6BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA85E2CC-1E56-418F-945C-1A8E31AB6BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA85E2CC-1E56-418F-945C-1A8E31AB6BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54F8A6AB-D29E-4495-B59D-03BC434029F2}
+	EndGlobalSection
+EndGlobal
